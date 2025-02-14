@@ -7,6 +7,7 @@ Welcome to the District 2 - Maria Salamanca Team Public Data Analysis Archive. T
 If you wish to return to the District 2 School Board Member Maria Salamanca page, please click the button below:
 
 <a href="https://www.ocps.net/departments/school_board_services/school_board_members/district_2_-_maria_salamanca" target="_blank">
-  <button style="padding: 10px 20px; font-size: 16px; cursor: pointer;">Return to Maria Salamanca Page</button>
+  <button style="background-color: orange; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 4px;">
+    Return to Maria Salamanca Page
+  </button>
 </a>
-
